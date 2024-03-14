@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mental-test/static/css/main.43ec634a.css",
-    "main.js": "/mental-test/static/js/main.ea5a90dd.js",
+    "main.js": "/mental-test/static/js/main.c24a9750.js",
     "index.html": "/mental-test/index.html",
     "main.43ec634a.css.map": "/mental-test/static/css/main.43ec634a.css.map",
-    "main.ea5a90dd.js.map": "/mental-test/static/js/main.ea5a90dd.js.map"
+    "main.c24a9750.js.map": "/mental-test/static/js/main.c24a9750.js.map"
   },
   "entrypoints": [
     "static/css/main.43ec634a.css",
-    "static/js/main.ea5a90dd.js"
+    "static/js/main.c24a9750.js"
   ]
 }
