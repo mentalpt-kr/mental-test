@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/mental-test/static/css/main.a963111b.css",
-    "main.js": "/mental-test/static/js/main.ee90edad.js",
+    "main.css": "/mental-test/static/css/main.39ef3817.css",
+    "main.js": "/mental-test/static/js/main.1186fb83.js",
+    "static/media/brain.png": "/mental-test/static/media/brain.9c5ae75895fa4ae434cf.png",
     "index.html": "/mental-test/index.html",
-    "main.a963111b.css.map": "/mental-test/static/css/main.a963111b.css.map",
-    "main.ee90edad.js.map": "/mental-test/static/js/main.ee90edad.js.map"
+    "main.39ef3817.css.map": "/mental-test/static/css/main.39ef3817.css.map",
+    "main.1186fb83.js.map": "/mental-test/static/js/main.1186fb83.js.map"
   },
   "entrypoints": [
-    "static/css/main.a963111b.css",
-    "static/js/main.ee90edad.js"
+    "static/css/main.39ef3817.css",
+    "static/js/main.1186fb83.js"
   ]
 }
